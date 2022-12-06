@@ -3,7 +3,7 @@ uc1_2022_SALIRRosas_SHIRLEY
 
 *Curso:* Microcontroladores I
 
-*Autor * :  Salirrosas Seminario Shirley Jasmin
+*Autor:*  Salirrosas Seminario Shirley Jasmin
 
  Tarjeta: Curiosity Nano PIC18f57q84
 
