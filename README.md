@@ -1,6 +1,5 @@
 
-uc1_2022_SALIRRosas_SHIRLEY
-
+uc1_2022_SALIRROSAS_SHIRLEY
 *Curso:* Microcontroladores I
 
 *Autor:*  Salirrosas Seminario Shirley Jasmin
